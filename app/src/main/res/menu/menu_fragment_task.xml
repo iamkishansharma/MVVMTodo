@@ -28,7 +28,6 @@
         app:showAsAction="never" />
     <item
         android:id="@+id/action_delete_all_completed_tasks"
-        android:checkable="true"
         android:title="Delete all Completed"
         app:showAsAction="never" />
 
